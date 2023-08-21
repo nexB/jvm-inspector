@@ -2,7 +2,10 @@ Changelog
 =========
 
 
-v0.0.0
+v0.0.1
 ------
 
-*xxxx-xx-xx* -- Initial release.
+Initial release with basic support to collect Java package from source
+code files.
+
+Available as ScanCode Toolkit plugin.
